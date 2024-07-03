@@ -1,0 +1,7 @@
+name = "BestieRecommended"
+uuid = "49999571-eea7-54eb-9328-55f56e583ba6"
+authors = ["Abel Soares Siqueira <abel.s.siqueira@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
