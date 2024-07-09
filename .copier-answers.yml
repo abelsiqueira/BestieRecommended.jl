@@ -8,5 +8,5 @@ License: MIT
 PackageName: BestieRecommended
 PackageOwner: abelsiqueira
 PackageUUID: 49999571-eea7-54eb-9328-55f56e583ba6
-_commit: v0.7.1
+_commit: v0.8.0
 _src_path: https://github.com/abelsiqueira/BestieTemplate.jl

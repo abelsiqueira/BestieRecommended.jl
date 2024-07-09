@@ -10,7 +10,7 @@
 [![Coverage](https://codecov.io/gh/abelsiqueira/BestieRecommended.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/abelsiqueira/BestieRecommended.jl)
 [![DOI](https://zenodo.org/badge/DOI/FIXME)](https://doi.org/FIXME)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-[![All Contributors](https://img.shields.io/github/all-contributors/abelsiqueira/BestieRecommended.jl?labelColor=5e1ec7&color=c0ffee&style=flat-square))](#contributors)
+[![All Contributors](https://img.shields.io/github/all-contributors/abelsiqueira/BestieRecommended.jl?labelColor=5e1ec7&color=c0ffee&style=flat-square)](#contributors)
 
 ## How to Cite
 
@@ -18,7 +18,7 @@ If you use BestieRecommended.jl in your work, please cite using the reference gi
 
 ## Contributing
 
-If you want to make contributions of any kind, please first that a look into our [contributing guide directly on GitHub](docs/src/90-contributing.md) or the [contributing page on the website](https://abelsiqueira.github.io/BestieRecommended.jl/dev/contributing/).
+If you want to make contributions of any kind, please first that a look into our [contributing guide directly on GitHub](docs/src/90-contributing.md) or the [contributing page on the website](https://abelsiqueira.github.io/BestieRecommended.jl/dev/90-contributing/).
 
 ---
 
